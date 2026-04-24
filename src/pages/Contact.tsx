@@ -43,7 +43,7 @@ const Contact = () => {
 
               <div className="grid gap-6">
                 {[
-                  { icon: MapPin, title: "Headquarters", info: "Sheikh Karume Rd, Nairobi Central" },
+                  { icon: MapPin, title: "Headquarters", info: "Magadi Rd, Ongata Rongai" },
                   { icon: Phone, title: "Main Hotline", info: "+254 703 335 788" },
                   { icon: Mail, title: "Email Support", info: "info@davisplumbing.co.ke" },
                   { icon: Clock, title: "Business Hours", info: "Mon - Sat: 08:00 - 18:00" }
@@ -108,7 +108,7 @@ const Contact = () => {
           ></iframe>
           <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 bg-[#004B50] text-white p-6 shadow-2xl space-y-2 pointer-events-none">
             <div className="font-black uppercase tracking-widest text-xs">Davis Headquarters</div>
-            <div className="text-[10px] font-bold text-[#D4AF37] uppercase tracking-widest">Sheikh Karume Rd, Nairobi</div>
+            <div className="text-[10px] font-bold text-[#D4AF37] uppercase tracking-widest">Magadi Rd, Ongata Rongai</div>
           </div>
         </section>
       </main>

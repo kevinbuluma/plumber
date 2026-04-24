@@ -23,7 +23,7 @@ const Header = () => {
               <Mail className="h-3 w-3 text-[#D4AF37]" /> info@davisplumbing.co.ke
             </a>
             <span className="flex items-center gap-2">
-              <MapPin className="h-3 w-3 text-[#D4AF37]" /> Sheikh Karume Rd, Nairobi
+              <MapPin className="h-3 w-3 text-[#D4AF37]" /> Magadi Rd, Ongata Rongai
             </span>
           </div>
           <div className="flex gap-5 items-center">

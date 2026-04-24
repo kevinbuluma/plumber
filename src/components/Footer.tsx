@@ -58,7 +58,7 @@ const Footer = () => (
           </li>
           <li className="flex items-start gap-4">
             <MapPin className="h-5 w-5 text-[#D4AF37] shrink-0" />
-            <span className="leading-relaxed font-bold">Sheikh Karume Rd, Nairobi Central, Kenya</span>
+            <span className="leading-relaxed font-bold">Magadi Rd, Ongata Rongai, Kenya</span>
           </li>
         </ul>
       </div>

@@ -29,12 +29,12 @@ const About = () => {
                 Since 2010
               </div>
               <h2 className="text-4xl md:text-5xl font-black uppercase tracking-tighter text-[#002D30] leading-none">
-                Building the <br />Future of <span className="text-[#004B50]">Nairobi.</span>
+                Building the <br />Future of <span className="text-[#004B50]">Ongata Rongai.</span>
               </h2>
               <p className="text-lg text-muted-foreground font-medium leading-relaxed">
                 Davis Plumbing & Hardware has evolved from a local supplier into Nairobi's most trusted 
                 destination for high-end sanitary ware and industrial solutions. Located in the heart 
-                of the city on Sheikh Karume Road, we serve contractors, architects, and homeowners 
+                of Ongata Rongai on Magadi Road, we serve contractors, architects, and homeowners 
                 with equal passion.
               </p>
               <div className="grid grid-cols-2 gap-8">

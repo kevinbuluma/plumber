@@ -36,14 +36,14 @@ const Visit = () => {
               <div className="rounded-none overflow-hidden border border-gray-100 shadow-elevated aspect-square lg:aspect-auto bg-gray-50 relative group">
                 <iframe
                   title="Davis Hardware Ltd location"
-                  src="https://www.openstreetmap.org/export/embed.html?bbox=36.82%2C-1.285%2C36.825%2C-1.283&layer=mapnik"
+                  src="https://www.openstreetmap.org/export/embed.html?bbox=36.75%2C-1.40%2C36.77%2C-1.39&layer=mapnik"
                   className="w-full h-full min-h-[500px] grayscale transition-all duration-700 group-hover:grayscale-0"
                   loading="lazy"
                 />
                 <div className="absolute bottom-6 left-6 right-6 bg-[#004B50] text-white p-6 shadow-2xl flex items-center justify-between">
                   <div>
-                    <div className="font-black uppercase tracking-tighter text-lg">Sheikh Karume Rd</div>
-                    <div className="text-[10px] text-[#D4AF37] font-bold uppercase tracking-widest mt-1">Nairobi Central, Kenya</div>
+                    <div className="font-black uppercase tracking-tighter text-lg">Magadi Rd</div>
+                    <div className="text-[10px] text-[#D4AF37] font-bold uppercase tracking-widest mt-1">Ongata Rongai, Kenya</div>
                   </div>
                   <Button variant="outline" className="border-white/20 text-white hover:bg-white/10 rounded-none h-12 gap-2 uppercase font-black text-[10px] tracking-widest">
                     <Navigation className="h-4 w-4" /> Get Directions
